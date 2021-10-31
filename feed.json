@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nygelの温馨小屋",
+    "description": "Nygel’sBlog",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2021/10/08/Nygel'sBlog/",
+            "url": "http://example.com/2021/10/08/Nygel'sBlog/",
+            "title": "博客名字",
+            "date_published": "2021-10-08T10:57:06.000Z",
+            "content_html": "<p>我的第一篇博客</p>\n",
+            "tags": []
+        }
+    ]
+}
