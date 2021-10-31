@@ -1,13 +1,15 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Nygelの温馨小屋",
+    "subtitle": "",
+    "icon": "http://example.com/images/favicon.ico",
     "description": "Nygel’sBlog",
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2021/10/08/Nygel'sBlog/",
-            "url": "http://example.com/2021/10/08/Nygel'sBlog/",
-            "title": "博客名字",
+            "id": "http://example.com/2021/10/08/%E6%9D%82/Nygel'sBlog/",
+            "url": "http://example.com/2021/10/08/%E6%9D%82/Nygel'sBlog/",
+            "title": "测试博客",
             "date_published": "2021-10-08T10:57:06.000Z",
             "content_html": "<p>我的第一篇博客</p>\n",
             "tags": []

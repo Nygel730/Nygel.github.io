@@ -2,12 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
     <title>Nygelの温馨小屋</title>
+    <subtitle></subtitle>
+    <icon>http://example.com/images/favicon.ico</icon>
     <link href="http://example.com" />
+    <author>
+      <name>Nygel</name>
+    </author>
     <updated>2021-10-08T10:57:06.000Z</updated>
     <entry>
-        <id>http://example.com/2021/10/08/Nygel&#39;sBlog/</id>
-        <title>博客名字</title>
-        <link rel="alternate" href="http://example.com/2021/10/08/Nygel&#39;sBlog/"/>
+        <id>http://example.com/2021/10/08/%E6%9D%82/Nygel&#39;sBlog/</id>
+        <title>测试博客</title>
+        <link rel="alternate" href="http://example.com/2021/10/08/%E6%9D%82/Nygel&#39;sBlog/"/>
         <content type="html">&lt;p&gt;我的第一篇博客&lt;/p&gt;
 </content>
         <updated>2021-10-08T10:57:06.000Z</updated>
