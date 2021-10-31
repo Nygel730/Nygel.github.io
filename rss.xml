@@ -2,7 +2,12 @@
 <rss version="2.0">
     <channel>
         <title>Nygelの温馨小屋</title>
+        <subtitle></subtitle>
+        <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
+        <author>
+          <name>Nygel</name>
+        </author>
         <description>Nygel’sBlog</description>
         <language>zh-CN</language>
         <pubDate>Fri, 08 Oct 2021 18:57:06 +0800</pubDate>
